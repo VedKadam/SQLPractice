@@ -1,5 +1,5 @@
 -- index: 
-	-- joins ==> inner, left, cross
+	-- joins ==> inner, left, cross, righht and full outer join
 
 -- NOTE : 
 	-- default is inner join
